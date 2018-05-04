@@ -1,4 +1,4 @@
-package data;
+package br.com.bezerra.diego.cittalanches.data;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package br.com.bezerra.diego.cittalanches;
+package br.com.bezerra.diego.cittalanches.gui.activity;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -17,10 +17,11 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
 
-import data.CittaLanchesData;
-import data.PurchaseDay;
-import data.StoreItem;
-import data.User;
+import br.com.bezerra.diego.cittalanches.R;
+import br.com.bezerra.diego.cittalanches.data.CittaLanchesData;
+import br.com.bezerra.diego.cittalanches.data.PurchaseDay;
+import br.com.bezerra.diego.cittalanches.data.StoreItem;
+import br.com.bezerra.diego.cittalanches.data.User;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
