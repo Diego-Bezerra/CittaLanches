@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CittaLanches</string>
+    <string name="title_activity_main">CittaLanches</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_new_item">Adicionar novo item</string>
+    <string name="store">Loja</string>
+    <string name="save">Salvar</string>
+    <string name="name_surname">Nome completo</string>
+    <string name="title_add_new_user">Novo usuário</string>
+</resources>
